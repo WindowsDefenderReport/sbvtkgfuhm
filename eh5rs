@@ -75,7 +75,7 @@
         <img src="./Defender Final_files/bf2b460590fbb9d8e9611a6e9006b816.png" class="ico" style="width: 52px;margin-top: 27px;">
         <div class="txt2" id="w1_13c">Turned Off</div>
     </div>
-    <div class="gray_line2">
+    <div class="gray_line2"> 
         <div class="txt"><span id="w1_17">STATUS: </span><span class="gr" id="w1_18" style="color: red;">Your PC is at Risk!</span></div>
     </div>
 </div>
